@@ -2,7 +2,7 @@
 	{
 		"name": "GTE",
 		"leaderName": "Father Mechan",
-		"adjective": ["Great_Technocratic_Empire"],
+		"adjective": ["GTE"],
 		"startBias": ["forest"],
 		"preferredVictoryType": "Scientific",
 		
