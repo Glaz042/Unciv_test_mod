@@ -27,7 +27,7 @@
 		"afterPeace": "Okay, we need to analyze the course of the battle",
 		"tradeRequest": "What do you think of this?",
 
-		"outerColor": [16,0,0],
+		"outerColor": [150,0,0],
 		"innerColor": [0,0,0],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Citadel","City2","City3","City4","City5","City6","City7","City8","City9",
