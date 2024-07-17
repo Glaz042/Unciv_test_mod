@@ -2,11 +2,11 @@
 	{
 		"name": "GTE",
 		"leaderName": "Father Mechan",
-		"adjective": ["GTE"],
+		"adjective": ["Great Technokratic Empire"],
 		"startBias": ["forest"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Great technokratic empire",
+		"startIntroPart1": "Great Technokratic Empire",
 		"startIntroPart2": "Is greating you",
 		
 		"declaringWar": "Heretics detected",
