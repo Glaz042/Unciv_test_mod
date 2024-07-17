@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Phasers",
+		"name": "hunter",
 		"unitType": "Ranged",
 		"uniqueTo": "Aliens",
 		"replaces": "Machine Gun",
