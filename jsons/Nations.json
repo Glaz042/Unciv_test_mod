@@ -1,38 +1,38 @@
 [
 	{
 		"name": "Great technocratic Empire",
-		"leaderName": "Mechanicus",
+		"leaderName": "Father Mechan",
 		"adjective": ["GTE"],
-		"startBias": ["Snow"],
+		"startBias": ["forest"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Let us teach you.",
+		"startIntroPart2": "Let you teach us.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"declaringWar": "Heretics detected",
 		"attacked": "What a rash decision.",
 		"defeated": "The lesson is learned.",
-		"introduction": "Greetings, I hope we can learn something together.",
+		"introduction": "Greetings, my nation hope we can learn something together.",
 		
 		"neutralHello": "Hello again.",
-		"neutralLetsHearIt": ["Can you teach me ","Hm?","What's the deal?"],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": ["Can you teach us...","Hm?","What's the deal?"],
+		"neutralNo": ["No","We are not interested in this","I refuse."],
+		"neutralYes": ["Deal.","Good","Mechan bless you"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Stop wasting my time.",
+		"hateLetsHearIt": ["You are not worthy of our knowledge ","Hm?","What now?"],
+		"hateNo": ["No deal.","Good joke.","I hope I misheard that"],
+		"hateYes": ["Fine.","At least you're useful in some point.","Fair enough"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Okay, we need to analyze the course of the battle",
+		"tradeRequest": "What do you think of this?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [16,0,0],
+		"innerColor": [0,0,0],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Citadel","City2","City3","City4","City5","City6","City7","City8","City9",
+			"CityA","CityB","CityC","CityD","CityE","CityG","City10","City11","City12","City13","City14",
+			"City15","City16","City","City18","City19","City1A","City1B","City1C","City1D","City1E",
+			"City1F","City1G","City20","City21","City22","City13"]
 	}
 ]
