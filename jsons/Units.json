@@ -2,7 +2,7 @@
 	{
 		"name": "hunter",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Great_Technocratic_Empire",
 		"replaces": "Machine Gun",
 		"movement": 2,
 		"strength": 90,
