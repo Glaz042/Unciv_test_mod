@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Great_Technocratic_Empire",
+		"name": "GTE",
 		"leaderName": "Father Mechan",
 		"adjective": ["GTE"],
 		"startBias": ["forest"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Let us teach you.",
-		"startIntroPart2": "Let you teach us.",
+		"startIntroPart1": "Great technokratic empire",
+		"startIntroPart2": "Is greating you",
 		
 		"declaringWar": "Heretics detected",
 		"attacked": "What a rash decision.",
