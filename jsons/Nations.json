@@ -28,7 +28,7 @@
 		"tradeRequest": "What do you think of this?",
 
 		"outerColor": [150,0,0],
-		"innerColor": [0,0,0],
+		"innerColor": [255,255,255],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["Citadel","City2","City3","City4","City5","City6","City7","City8","City9",
 			"CityA","CityB","CityC","CityD","CityE","CityG","City10","City11","City12","City13","City14",
